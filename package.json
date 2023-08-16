@@ -24,8 +24,10 @@
     "jest": "^27.5.1"
   },
   "coverageThreshold": {
+    "global": {
     "branches": 100,
     "functions": 100,
     "lines": 100
+    }
   }
 }
